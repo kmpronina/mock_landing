@@ -21,9 +21,11 @@ import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import background from "./background.jpg";
 
+import logo_purple from "./logo/logo_purple.png";
+
 import curve from "./hero/curve.png";
-import robot from "./hero/robot.jpg";
-import heroBackground from "./hero/hero-background.jpg";
+import dnaBackground from "./hero/dna_background.png";
+import dna from "./hero/dna.jpeg";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
@@ -98,9 +100,10 @@ export {
   sliders04,
   loading,
   background,
+  logo_purple,
   curve,
-  robot,
-  heroBackground,
+  dnaBackground,
+  dna,
   curve1,
   curve2,
   discord,
