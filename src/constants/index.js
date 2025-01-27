@@ -33,7 +33,6 @@ import {
   sliders04,
   telegram,
   twitter,
-  yourlogo,
 } from "../assets";
 
 export const navigation = [
@@ -74,8 +73,6 @@ export const navigation = [
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
 export const notificationImages = [notification4, notification3, notification2];
-
-export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
   "Photo generating",
@@ -244,16 +241,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Accelerated Drug Development",
+    text: "By rapidly producing protein chains, the app can expedite the creation of novel drugs, enabling quicker responses to emerging health challenges.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Custom Protein Design",
+    text: "The app allows for the design of unique proteins with specific structural features, facilitating the development of materials with desired mechanical properties, such as increased toughness or flexibility.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,16 +258,16 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "High Yield and Purity",
+    text: "Utilizing recombinant protein synthesis, the app can generate large quantities of proteins with high purity, essential for various applications in research and therapy.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Versatility in Industrial Applications",
+    text: "The app's ability to design and produce custom proteins can enhance industrial processes, including biocatalysis, enzyme production, and the creation of biodegradable materials, promoting sustainability and efficiency. ",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -278,16 +275,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Rapid and Scalable Production",
+    text: "By leveraging cell-free protein synthesis, the app offers a faster and more streamlined approach compared to traditional methods, with the flexibility to easily scale production up or down as needed.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Enhanced Vaccine Development",
+    text: "The app facilitates the rapid synthesis of recombinant proteins, which are crucial in creating safer and more effective vaccines. By enabling the swift production of specific antigens, it accelerates vaccine development and allows for quick responses to emerging infectious diseases.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
